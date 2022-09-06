@@ -1,7 +1,7 @@
-# Connect SIM7600 to AWS IoT - Wiki
+# Connect SIM7600 to AWS IoT Core
 
 Documentation for Connecting SIM7600 to AWS IoT core.  
-The contents of this wiki are to connect to AWS IoT core manually using a Serial Terminal on a PC. The AT commands are sent to the SIM7600 module through the terminal. This method can be used to check if the policies and the device certificates are correct.  
+The contents of this page are to connect to AWS IoT core manually using a Serial Terminal on a PC. The AT commands are sent to the SIM7600 module through the terminal. This method can be used to check if the policies and the device certificates are correct.  
 This can also be implemented using a Microcontroller.
 
 > For deeper understanding of the AT Commands, the document "SIM7500_SIM7600 Series_ AT Command Manual" can be referred.
